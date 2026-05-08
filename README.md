@@ -1,2 +1,3 @@
-# K-Stop
-Your one stop shop for K-Pop!
+# Welcome to your Lovable project
+
+TODO: Document your project here
