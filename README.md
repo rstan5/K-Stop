@@ -136,12 +136,6 @@ Contributions, ideas, and feature suggestions are welcome.
 
 ---
 
-## 📄 License
-
-MIT License © 2026 K-Stop
-
----
-
 # 💜 K-Stop
 
 ### Fair Prices. Trusted Trades. AI-Powered Confidence.
